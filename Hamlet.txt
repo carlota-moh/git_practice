@@ -4,3 +4,10 @@ HAMLET:
 
 OMG is that a ghost?
 Super, super gross!
+
+GHOST:
+
+Indeed a ghost am I,
+call'd meself thou
+for thy sins present'd thou
+must I!
